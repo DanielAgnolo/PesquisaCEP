@@ -1,0 +1,19 @@
+@import url('C:\Users\daniel_agnolo\Desktop\Aulas Hevandro\viaCEP');
+        body{
+            background-image: url(./imagemfundo.jpg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+            overflow: hidden;
+            text-align: center;
+        }
+        #consulta{
+                background-color: rgba(179, 178, 178, 0.795);
+                padding: 20px;
+                border-radius: 10px;
+                height: 20%;
+                width: 33%;
+                margin-top: 20%;
+                margin-left: 35%;
+        }
